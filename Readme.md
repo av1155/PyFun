@@ -18,4 +18,4 @@ To use this program, you will need to have Python installed on your computer. Cl
 
 ## Usage
 
-When you run the program, you will be prompted to choose between the three functions. Enter the corresponding number to the function you want to use, and follow the instructions.
+When you run the program, you will be prompted to choose between the three functions. Enter the corresponding number to the function you want to use, and follow the instructions
